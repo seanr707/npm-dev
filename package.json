@@ -1,0 +1,19 @@
+{
+  "name": "@seanr707/npm-dev",
+  "version": "1.0.0",
+  "description": "npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('hello')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanr707/npm-dev.git"
+  },
+  "author": "seanr707",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanr707/npm-dev/issues"
+  },
+  "homepage": "https://github.com/seanr707/npm-dev#readme"
+}
