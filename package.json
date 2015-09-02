@@ -4,7 +4,7 @@
   "description": "npm tutorial",
   "main": "index.js",
   "scripts": {
-    "test": "console.log('hello')"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/seanr707/npm-dev/issues"
   },
-  "homepage": "https://github.com/seanr707/npm-dev#readme"
+  "homepage": "https://github.com/seanr707/npm-dev#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
